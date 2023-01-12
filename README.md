@@ -1,5 +1,5 @@
 # 16Theme
-![](https://img.shields.io/badge/latest-1.1-informational)
+![](https://img.shields.io/badge/latest-1.2-informational)
 ![](https://img.shields.io/badge/stable-1.1-informational)
 <br>
 ![](https://img.shields.io/badge/game-CS:S-informational)
