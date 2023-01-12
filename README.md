@@ -12,6 +12,6 @@
 Move the "16Theme" folder to <game folder>/cstrike/custom/
 
 ## Screenshots
-![Main menu](/scr1.png?raw=true "Screenshot 1")
-![Settings](/scr2.png?raw=true "Screenshot 2")
-![Server Browser](/scr3.png?raw=true "Screenshot 3")
+![Screenshot 1](/scr1.png "Main menu")
+![Screenshot 2](/scr2.png "Settings")
+![Screenshot 3](/scr3.png "Server browser")
