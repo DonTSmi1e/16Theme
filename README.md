@@ -9,7 +9,14 @@
 ![](https://img.shields.io/badge/legacy-1.0-critical)
 
 ## Installation
-Move the "16Theme" folder to <game folder>/cstrike/custom/
+1. Download latest release
+2. Move the file to "game folder"/cstrike/custom/
+3. Run game
+
+## Installation (repository)
+1. Clone this repository
+2. Move the "16Theme" folder to "game folder"/cstrike/custom/
+3. Run game
 
 ## Screenshots
 ![Screenshot 1](/scr1.png "Main menu")
