@@ -2,11 +2,10 @@
 ![](https://img.shields.io/badge/latest-1.2-informational)
 ![](https://img.shields.io/badge/stable-1.1-informational)
 <br>
-![](https://img.shields.io/badge/game-CS:S-informational)
-<br>
-![](https://img.shields.io/badge/development-active-success)
-<br>
-![](https://img.shields.io/badge/legacy-1.0-critical)
+| Branch      | Name         | Status                                                          | Game |
+|-------------|:------------:|-----------------------------------------------------------------|------|
+| stable      | 16Theme      | ![](https://img.shields.io/badge/-default_branch-informational) | CS:S |
+| development | 16Theme      | ![](https://img.shields.io/badge/development-active-active)     | CS:S |
 
 ## Installation
 1. Download latest release
