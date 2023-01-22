@@ -106,7 +106,7 @@ Scheme
 
 		PropertySheet.TextColor			"OffWhite"
 		PropertySheet.SelectedTextColor	"White"
-		PropertySheet.TransitionEffectTime	"0"
+		PropertySheet.TransitionEffectTime	"0.25"
 
 		RadioButton.TextColor			"OffWhite"
 		RadioButton.SelectedTextColor	"196 181 80 255"
