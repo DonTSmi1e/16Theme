@@ -5,7 +5,7 @@ It is constantly supplemented, changed and corrected for the final release.
 ```
 # 16Theme
 ![](https://img.shields.io/badge/latest-1.3-informational)
-![](https://img.shields.io/badge/stable-1.1-informational)
+![](https://img.shields.io/badge/stable-1.3-informational)
 <br>
 | Branch      | Name         | Status                                                          | Game |
 |-------------|:------------:|-----------------------------------------------------------------|------|
