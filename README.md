@@ -1,5 +1,10 @@
+```
+Warning!
+The README.md information in the "development" branch may not be correct.
+It is constantly supplemented, changed and corrected for the final release.
+```
 # 16Theme
-![](https://img.shields.io/badge/latest-1.2-informational)
+![](https://img.shields.io/badge/latest-1.3-informational)
 ![](https://img.shields.io/badge/stable-1.1-informational)
 <br>
 | Branch      | Name         | Status                                                          | Game |
