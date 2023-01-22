@@ -219,22 +219,19 @@ Scheme
 
 		"ProgressBarFg"			"255 30 13 255"
 
-		// Top-left corner of the "Counter-Strike" on the main screen
-		"Main.Title1.X"		"17"
-		"Main.Title1.Y"		"455"
-		"Main.Title1.Color"	"255 255 255 255"
+		"Main.Title1.X"		"0"
+		"Main.Title1.Y"		"0"
+		"Main.Title1.Color"	"255 255 255 0"
 
-		// Top-left corner of the "SOURCE" on the main screen
-		"Main.Title2.X"		"104"
-		"Main.Title2.Y"		"460"
-		"Main.Title2.Color"	"255 255 255 80"
+		"Main.Title2.X"		"0"
+		"Main.Title2.Y"		"0"
+		"Main.Title2.Color"	"255 255 255 0"
 
-		// Top-left corner of the menu on the main screen
 		"Main.Menu.X"		"17"
-		"Main.Menu.Y"		"375"
+		"Main.Menu.Y"		"420"
 
 		// Blank space to leave beneath the menu on the main screen
-		"Main.BottomBorder"	"20"
+		"Main.BottomBorder"	"32"
 	}
 
 	//
@@ -1072,11 +1069,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "Counter-Strike Logo" // CSlogo.ttf
-				"tall"  "15"
+				"name"  ""
+				"tall"  "0"
 				"weight" "0"
 				"additive" "0"
-				"antialias" "1"
+				"antialias" "0"
 			}
 		}
 
