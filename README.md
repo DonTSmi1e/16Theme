@@ -27,8 +27,7 @@ With proper reference in this branch, you can find out information about new upd
 
 ## Screenshots
 ![Screenshot 1](/scr1.png "Main menu")
-![Screenshot 2](/scr2.png "Settings")
-![Screenshot 3](/scr3.png "Server browser")
+![Screenshot 2](/scr2.png "Windows")
 
 # Release badges
 
