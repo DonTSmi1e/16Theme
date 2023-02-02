@@ -50,7 +50,7 @@ Scheme
 		Frame.ClientInsetY				6
 		Frame.BgColor					"76 88 68 255"	[$WIN32]
 		Frame.BgColor					"80 80 80 192"		[$X360]
-		Frame.OutOfFocusBgColor			"68 80 60 255"	[$WIN32]
+		Frame.OutOfFocusBgColor			"76 88 68 255"	[$WIN32]
 		Frame.OutOfFocusBgColor			"80 80 80 192"		[$X360]
 		Frame.FocusTransitionEffectTime	"0"
 		Frame.TransitionEffectTime		"0"				[$WIN32]
@@ -856,6 +856,41 @@ Scheme
 		{
 			// rounded corners for frames
 			"backgroundtype" "0"
+			Left
+			{
+				"1"
+				{
+					"color" "151 151 151 255"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "0 44 45 255"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "151 151 151 255"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "0 44 45 255"
+					"offset" "0 0"
+				}
+			}
 		}
 
 		DepressedBorder
