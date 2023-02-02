@@ -4,11 +4,12 @@ The README.md information in the "development" branch may not be correct.
 It is constantly supplemented, changed and corrected for the final release.
 With proper reference in this branch, you can find out information about new updates.
 ```
+
 # 16Theme
 ![Banner](/1.6-css.png "1.6-CSS")
 
 ![](https://img.shields.io/badge/latest-1.4-informational)
-![](https://img.shields.io/badge/stable-1.3-informational)
+![](https://img.shields.io/badge/stable-1.4-informational)
 <br>
 | Branch      | Name         | Status                                                          | Game |
 |-------------|:------------:|-----------------------------------------------------------------|------|
