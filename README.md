@@ -8,7 +8,7 @@ With proper reference in this branch, you can find out information about new upd
 # 16Theme
 ![Banner](/1.6-css.png "1.6-CSS")
 
-![](https://img.shields.io/badge/latest-1.4-informational)
+![](https://img.shields.io/badge/latest-1.5-informational)
 ![](https://img.shields.io/badge/stable-1.4-informational)
 <br>
 | Branch      | Name         | Status                                                          | Game |
