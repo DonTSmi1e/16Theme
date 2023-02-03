@@ -38,3 +38,6 @@ With proper reference in this branch, you can find out information about new upd
 | ![](https://img.shields.io/badge/Unsupported-gray)                 | Your version of the addon is no longer supported, please update or do your own support (create a new repository). |
 | ![](https://img.shields.io/badge/Stable-darkgreen)                 | The addon is absolutely stable and is recommended for further use and/or editing. |
 | ![](https://img.shields.io/badge/Legacy-yellow)                    | The version is completely outdated and not recommended for any use. |
+
+# Credits
+https://github.com/keshikan/DSEG - HUD font
