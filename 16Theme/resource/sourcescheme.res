@@ -16,8 +16,8 @@ Scheme
 	}
 	BaseSettings
 	{
-		Border.Bright					"150 150 150 255"
-		Border.Dark						"0 48 49 255"
+		Border.Bright					"136 145 128 255"
+		Border.Dark						"40 46 34 255"
 		Border.Selection				"0 0 0 255"
 
 		Button.TextColor				"White"
@@ -94,7 +94,7 @@ Scheme
 
 		Menu.TextColor					"White"
 		Menu.BgColor					"76 88 68 233"
-		Menu.ArmedTextColor				"Black"
+		Menu.ArmedTextColor				"White"
 		Menu.ArmedBgColor				"Orange"
 		Menu.TextInset					"6"
 
@@ -134,9 +134,9 @@ Scheme
 		SectionedListPanel.TextColor		"DullWhite"
 		SectionedListPanel.BrightTextColor	"White"
 		SectionedListPanel.BgColor			"TransparentBlack"
-		SectionedListPanel.SelectedTextColor			"Black"
+		SectionedListPanel.SelectedTextColor			"White"
 		SectionedListPanel.SelectedBgColor				"Orange"
-		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
+		SectionedListPanel.OutOfFocusSelectedTextColor	"White"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 155 0 128"
 
 		Slider.NobColor				"54 63 47 255"
@@ -150,7 +150,7 @@ Scheme
 		TextEntry.CursorColor		"OffWhite"
 		TextEntry.DisabledTextColor	"DullWhite"
 		TextEntry.DisabledBgColor	"Blank"
-		TextEntry.SelectedTextColor	"Black"
+		TextEntry.SelectedTextColor	"White"
 		TextEntry.SelectedBgColor	"Orange"
 		TextEntry.OutOfFocusSelectedBgColor	"149 136 49 255"
 		TextEntry.FocusEdgeColor	"0 0 0 196"
@@ -860,7 +860,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "151 151 151 255"
+					"color" "136 145 128 255"
 					"offset" "0 0"
 				}
 			}
@@ -869,7 +869,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "0 44 45 255"
+					"color" "40 46 34 255"
 					"offset" "0 0"
 				}
 			}
@@ -878,7 +878,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "151 151 151 255"
+					"color" "136 145 128 255"
 					"offset" "0 0"
 				}
 			}
@@ -887,7 +887,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "0 44 45 255"
+					"color" "40 46 34 255"
 					"offset" "0 0"
 				}
 			}
