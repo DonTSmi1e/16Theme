@@ -14,7 +14,7 @@ With proper reference in this branch, you can find out information about new upd
 | Branch      | Name         | Status                                                          | Game |
 |-------------|:------------:|-----------------------------------------------------------------|------|
 | stable      | 16Theme      | ![](https://img.shields.io/badge/-default_branch-informational) | CS:S |
-| development | 16Theme      | ![](https://img.shields.io/badge/development-active-active)     | CS:S |
+| development | 16Theme      | ![](https://img.shields.io/badge/development-inactive-inactive)     | CS:S |
 
 ## Installation
 1. Download latest release
