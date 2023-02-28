@@ -14,7 +14,8 @@ With proper reference in this branch, you can find out information about new upd
 | Branch      | Name         | Status                                                          | Game |
 |-------------|:------------:|-----------------------------------------------------------------|------|
 | stable      | 16Theme      | ![](https://img.shields.io/badge/-default_branch-informational) | CS:S |
-| development | 16Theme      | ![](https://img.shields.io/badge/development-inactive-inactive)     | CS:S |
+| bug-fixes   | 16Theme      | ![](https://img.shields.io/badge/-merge_branch-informational)   | CS:S |
+| development | 16Theme      | ![](https://img.shields.io/badge/development-finished-informational) | CS:S |
 
 ## Installation
 1. Download latest release
@@ -38,7 +39,7 @@ With proper reference in this branch, you can find out information about new upd
 | ![](https://img.shields.io/badge/Unsupported-gray)                 | No longer supported version. Still might be stable. |
 | ![](https://img.shields.io/badge/Stable-success)                   | The version has been tested and does not have critical bugs. |
 | ![](https://img.shields.io/badge/Legacy-yellow)                    | An outdated version that is not recommended for use. |
-| ![](https://img.shields.io/badge/Pre--Release-22f)          | A version with minor changes from the previous one, released without updating the repository. |
+| ![](https://img.shields.io/badge/Pre--Release-22f)                 | A version with minor changes from the previous one, released without updating the repository. |
 
 ### Pre-release versions (intermediate releases)
 Well, if one day you find a release with the "Pre-Release" badge, you may also notice that the stable branch will still not have any new features since
